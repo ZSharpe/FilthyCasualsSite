@@ -1,5 +1,16 @@
+@media screen and (max-width: 600px) {
+    #footer {
+      visibility: hidden;
+      clear: both;
+      float: left;
+      margin: 10px auto 5px 20px;
+      width: 28%;
+      display: none;
+    }
+  }
+
 body{
-    background-image: url("assets/CasualsCassette.png");
+    background-image: url("Assets/CasualsCassette.png");
     background-size: cover;
 }
 
@@ -30,8 +41,8 @@ body{
 
 .fa{
     padding: 10px;
-    padding-left: 30px;
-    padding-right: 30px;
+    padding-left: 25px;
+    padding-right: 25px;
     color: white;
 }
 
