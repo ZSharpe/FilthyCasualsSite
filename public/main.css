@@ -1,12 +1,38 @@
 body{
     background-image: url("assets/CasualsCassette.png");
-    background-size: contain;
+    background-size: cover;
 }
 
 .biophoto {
     width:50%;
     height:50%;
     padding:20px;
+}
+
+.footer {
+    position: absolute;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    padding: 5px;
+    background-color: rgba(0,0,0,.7);
+    text-align: center;
+}
+
+.sticky-footer-navbar{
+    right: 0;
+    bottom: 0;
+    left: 0;
+    padding: 5px;
+    background-color: rgba(0,0,0,.7);
+    text-align: center;
+}
+
+.fa{
+    padding: 10px;
+    padding-left: 30px;
+    padding-right: 30px;
+    color: white;
 }
 
 #bodyblock{ 
