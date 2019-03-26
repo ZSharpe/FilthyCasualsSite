@@ -43,11 +43,9 @@ body{
     text-align: center;
 }
 
-.fa{
-    padding: 10px;
-    padding-left: 25px;
-    padding-right: 25px;
+.fab{
     color: white;
+    padding:20px;
 }
 
 #bodyblock{ 
