@@ -48,6 +48,10 @@ body{
     padding:20px;
 }
 
+.e2ma_signup_form_label{
+    color:white !important;
+}
+
 #bodyblock{ 
     background-color: rgba(0,0,0,.7);
     padding:50px;
